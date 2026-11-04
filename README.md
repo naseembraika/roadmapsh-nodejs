@@ -10,3 +10,4 @@ The projects in [Roadmap.sh](https://roadmap.sh) is three types
 
 1. [Folder Info](https://roadmap.sh/projects/nodejs-folder-info)
 2. [File Counter](https://roadmap.sh/projects/nodejs-file-counter)
+3. [GitHub Profile Details](https://roadmap.sh/projects/nodejs-github-profile-details)
